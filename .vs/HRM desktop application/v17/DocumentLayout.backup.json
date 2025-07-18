@@ -1,52 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\PRINSI\\GITHUB\\HRM desktop application\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\src\\salary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\src\\salary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Salary.cs [Design]",
-              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Salary\\Salary.cs",
-              "RelativeDocumentMoniker": "HRM desktop application\\src\\Salary\\Salary.cs",
-              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Salary\\Salary.cs [Design]",
-              "RelativeToolTip": "HRM desktop application\\src\\Salary\\Salary.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T06:16:05.509Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddEmployee.cs [Design]",
-              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
-              "RelativeDocumentMoniker": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
-              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs [Design]",
-              "RelativeToolTip": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T05:50:02.888Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

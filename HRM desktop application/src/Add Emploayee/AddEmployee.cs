@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -17,6 +18,8 @@ namespace HRM_desktop_application.src
 
         private void AddEmployee_Load(object sender, EventArgs e)
         {
+            CenterLoginPanelAndStyleButton();
+
             dataGridView1.DataSource = null;
             dataGridView1.Columns.Clear(); // Clear old columns if any
 
@@ -36,6 +39,26 @@ namespace HRM_desktop_application.src
 
             dataGridView1.AutoGenerateColumns = false;
             LoadEmployeeData();
+        }
+
+
+        private void CenterLoginPanelAndStyleButton()
+        {
+            btnAdd.BackColor = Color.FromArgb(90, 154, 214);
+            btnAdd.FlatAppearance.MouseOverBackColor = btnAdd.BackColor;
+            btnAdd.FlatAppearance.MouseDownBackColor = btnAdd.BackColor;
+
+            btnUpdate.BackColor = Color.FromArgb(90, 154, 214);
+            btnUpdate.FlatAppearance.MouseOverBackColor = btnAdd.BackColor;
+            btnUpdate.FlatAppearance.MouseDownBackColor = btnAdd.BackColor;
+
+            btnDelete.BackColor = Color.FromArgb(90, 154, 214);
+            btnDelete.FlatAppearance.MouseOverBackColor = btnAdd.BackColor;
+            btnDelete.FlatAppearance.MouseDownBackColor = btnAdd.BackColor;
+
+            btnClear.BackColor = Color.FromArgb(90, 154, 214);
+            btnClear.FlatAppearance.MouseOverBackColor = btnAdd.BackColor;
+            btnClear.FlatAppearance.MouseDownBackColor = btnAdd.BackColor;
         }
 
         private void LoadEmployeeData()
@@ -233,6 +256,51 @@ namespace HRM_desktop_application.src
             ClearFields();
         }
         #endregion
+
+        private void panel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblfullname_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblGender_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblPosition_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblPhoneNumber_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblStatus_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void cmbpostion_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
  

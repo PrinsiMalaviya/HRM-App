@@ -109,5 +109,15 @@ namespace HRM_desktop_application.src
         {
             ClearFields();
         }
+
+        private void txtFullName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

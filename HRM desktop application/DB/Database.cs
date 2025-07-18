@@ -14,7 +14,7 @@ namespace HRM_desktop_application.DB
         public static string dbName = "employee";
         public static string server = "localhost";
         public static string userId = "admin";
-        public static string password = "admin";
+        public static string password = "password";
 
         public static string baseConnStr = $"Server={server};Uid={userId};Pwd={password};";
 
@@ -162,7 +162,7 @@ namespace HRM_desktop_application.DB
                     long count = (long)cmd.ExecuteScalar();
                     if (count == 0)
                     {
-                        string insertDefaultLogin = "INSERT INTO login (username, password) VALUES ('admin', 'password');";
+                        string insertDefaultLogin = "INSERT INTO login (username, password) VALUES ('admin', 'admin');";
                         using (MySqlCommand insertCmd = new MySqlCommand(insertDefaultLogin, conn))
                         {
                             insertCmd.ExecuteNonQuery();
