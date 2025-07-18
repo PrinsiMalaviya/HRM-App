@@ -14,7 +14,7 @@ namespace HRM_desktop_application.DB
         public static string dbName = "employee";
         public static string server = "localhost";
         public static string userId = "admin";
-        public static string password = "password";
+        public static string password = "admin";
 
         public static string baseConnStr = $"Server={server};Uid={userId};Pwd={password};";
 

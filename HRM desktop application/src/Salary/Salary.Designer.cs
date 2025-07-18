@@ -174,6 +174,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Tahoma", 9.75F);
             this.label4.Location = new System.Drawing.Point(14, 238);
             this.label4.Name = "label4";
@@ -193,6 +194,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Tahoma", 9.75F);
             this.label5.Location = new System.Drawing.Point(14, 171);
             this.label5.Name = "label5";
@@ -212,6 +214,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Tahoma", 9.75F);
             this.label6.Location = new System.Drawing.Point(14, 104);
             this.label6.Name = "label6";
@@ -231,6 +234,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Tahoma", 9.75F);
             this.label7.Location = new System.Drawing.Point(15, 39);
             this.label7.Name = "label7";

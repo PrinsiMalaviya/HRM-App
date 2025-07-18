@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\PRINSI\\GITHUB\\HRM desktop application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\src\\salary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\src\\salary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\DB\\Database.cs",
+              "RelativeDocumentMoniker": "HRM desktop application\\DB\\Database.cs",
+              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\DB\\Database.cs",
+              "RelativeToolTip": "HRM desktop application\\DB\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:16:51.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\Program.cs",
+              "RelativeDocumentMoniker": "HRM desktop application\\Program.cs",
+              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\Program.cs",
+              "RelativeToolTip": "HRM desktop application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:16:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salary.cs [Design]",
+              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Salary\\Salary.cs",
+              "RelativeDocumentMoniker": "HRM desktop application\\src\\Salary\\Salary.cs",
+              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Salary\\Salary.cs [Design]",
+              "RelativeToolTip": "HRM desktop application\\src\\Salary\\Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:16:05.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AddEmployee.cs [Design]",
               "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
               "RelativeDocumentMoniker": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",

@@ -105,7 +105,6 @@ C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\bin\Debug\tr\Mi
 C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\obj\Debug\HRM App.csproj.AssemblyReference.cache
-C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\obj\Debug\HRM App.exe.config
 C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\obj\Debug\HRM_desktop_application.src.AddEmployee.resources
 C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\obj\Debug\HRM_desktop_application.src.dashbord.resources
 C:\PRINSI\GITHUB\HRM desktop application\HRM desktop application\obj\Debug\HRM_desktop_application.Loginpage.resources
