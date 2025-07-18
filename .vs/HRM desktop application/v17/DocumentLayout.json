@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\PRINSI\\GITHUB\\HRM desktop application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|C:\\PRINSI\\GITHUB\\HRM desktop application\\hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|c:\\prinsi\\github\\hrm desktop application\\hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\src\\add emploayee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|C:\\PRINSI\\GITHUB\\HRM desktop application\\hrm desktop application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8087535-EDA9-46F1-9A11-53CD68E8E75A}|HRM desktop application\\HRM App.csproj|solutionrelative:hrm desktop application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
+              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
+              "RelativeToolTip": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAowNAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:02:09.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs",
+              "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "HRM desktop application\\src\\Add Emploayee\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:00:20.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\Program.cs",
               "RelativeDocumentMoniker": "HRM desktop application\\Program.cs",
               "ToolTip": "C:\\PRINSI\\GITHUB\\HRM desktop application\\HRM desktop application\\Program.cs",
               "RelativeToolTip": "HRM desktop application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T06:58:18.13Z",
               "EditorCaption": ""

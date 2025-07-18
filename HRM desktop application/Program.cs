@@ -18,7 +18,7 @@ namespace HRM_desktop_application
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Loginpage());
+            Application.Run(new New_MainForm());
         }
     }
 }

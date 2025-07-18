@@ -257,50 +257,17 @@ namespace HRM_desktop_application.src
         }
         #endregion
 
-        private void panel6_Paint(object sender, PaintEventArgs e)
+        private void panel7_Paint(object sender, PaintEventArgs e)
         {
-
+            using (Pen drawLine = new Pen(Color.Silver, 4))
+            {
+                int x1 = 0;             // Start from left edge
+                int x2 = panel7.Width;  // End at right edge
+                int y = panel7.Height / 2; // Middle of the panel
+                e.Graphics.DrawLine(drawLine, x1, y, x2, y);
+            }
         }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblfullname_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblGender_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblPosition_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblPhoneNumber_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblStatus_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel5_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void cmbpostion_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
+    
     }
 }
  
